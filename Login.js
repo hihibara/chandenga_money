@@ -1,5 +1,5 @@
-const WEB_IP = "http://127.0.0.1:5500/Login.html";
-const CALLBACK_IP = "http://127.0.0.1:5500/CallBack.html";
+const WEB_IP = "http://127.0.0.1:8887/Login.html";
+const CALLBACK_IP = "http://127.0.0.1:8887/CallBack.html";
 const CLIENT_ID = "Hw7RwBFOB7UjSufSEEjy";
 
 var naver_id_login = new naver_id_login(CLIENT_ID, CALLBACK_IP);
